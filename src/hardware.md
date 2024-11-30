@@ -18,6 +18,7 @@ The observatory consists of:
 - [Pegasus Astro Ultimate Powerbox v3](hardware/powerbox-pegasus-astro-ultimate-v3.md)
   - [?x 5.5mmx2.1mm dust plugs](hardware/dust-caps-and-plugs.md#55mmx21mm-dust-plugs)
   - [?x USB A dust plugs](hardware/dust-caps-and-plugs.md#usb-a-dust-plugs)
+  - [Pegasus Astro 12V/20A XT60 Power Supply](hardware/powerbox-pegasus-astro-ultimate-v3.md#12v-20a-xt60-power-supply)
 - [Pegasus Astro Falcon Rotator (the discontinued "v1")](hardware/rotator-pegasus-astro-falcon.md)
 - [Beelink EQ13 mini PC (Intel N200, 16GB RAM, ??? storage)](hardware/mini-pc-beelink-eq13.md)
 - [Digital Loggers Pro Switch 10-port switchable AC hub](hardware/switch-digital-loggers-pro.md)

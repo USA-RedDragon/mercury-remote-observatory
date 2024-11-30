@@ -1,9 +1,6 @@
 # Diagrams
 
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
+- [Optical Train](diagrams/optical.md)
+- [Power](diagrams/power.md)
+- [USB](diagrams/usb.md)
+- [Network](diagrams/network.md)

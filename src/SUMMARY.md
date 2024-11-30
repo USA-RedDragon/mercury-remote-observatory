@@ -24,6 +24,10 @@
   - [Miniature 2-port Router](hardware/router-miniature-2-port.md)
   - [Dust Caps and Plugs](hardware/dust-caps-and-plugs.md)
 - [Diagrams](diagrams.md)
+  - [Optical Train](diagrams/optical.md)
+  - [Power](diagrams/power.md)
+  - [USB](diagrams/usb.md)
+  - [Network](diagrams/network.md)
 
 # Installation
 
