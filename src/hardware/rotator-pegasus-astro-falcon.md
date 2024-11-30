@@ -2,7 +2,7 @@
 
 ## Quick Specs
 
-- **Price when purchased**: $
+- **Price when purchased**: $626.67
 
 ## Quick Links
 
