@@ -1,0 +1,39 @@
+# Hardware
+
+The observatory consists of:
+
+- ZWO AM5N equatorial mount
+- Apertura 75Q refractor telescope (75mm aperture, 405mm focal length, f/5.4)
+  - ??? mounting plate
+- Apertura 75Q 0.75x focal reducer (to 303mm focal length, f/4)
+- ZWO ASI533MM Pro cooled monochrome camera (14-bit, 3008x3008 resolution, 3.76μm pixel size)
+- ZWO 7x2" Electronic Filter Wheel
+- 7x Optolong 2 inch filters (LRGBSHO)
+  - Optolong Sulfur II / S-II Narrowband (6.5nm)
+  - Optolong Hydrogen Alpha Narrowband (7nm)
+  - Optolong Oxygen III / O-III Narrowband (6.5nm)
+  - Optolong LRGB Imaging Filter Set
+- ZWO Electronic Automatic Focuser - Standard (5V Version)
+  - ZWO temperature sensor
+- Pegasus Astro Ultimate Powerbox v3
+- Pegasus Astro Falcon Rotator (the discontinued "v1")
+- Beelink EQ13 mini PC (Intel N200, 16GB RAM, ??? storage)
+- Digital Loggers Pro Switch 10-port switchable AC hub
+  - Brass SMA dust cap
+- Deep Sky Dad FP2 flat panel (FLAP100 for the Apertura 75Q with heater add-on)
+- 3x Dew-Not Dew Heaters
+  - Dew-Not 6.5" DN02 (Guide scope)
+  - Dew-Not 9" DN03 (Narrow portion of OTA)
+  - Dew-Not 13" DN04 (Wide portion of OTA)
+- TP-Link Litewave 5-port Gigabit Ethernet Switch
+  - ?x RJ45 dust plugs
+- Orion Mini 50mm Guide Scope (50mm aperture, 162mm focal length, f/3.2)
+  - Dust cap
+- ZWO ASI120MM Mini monochrome guide scope camera (12-bit, 1280x960 resolution, 3.75μm pixel size)
+- Sipeed NanoKVM (Full version with case and external power support)
+  - ??? SD card
+- A miniature 2-port router
+  - Raspberry Pi CM4 (??gb EMMC)
+  - DFRobot Raspberry Pi Compute Module 4 IoT Router Carrier Board Mini (with acrylic case)
+  - Brass SMA dust cap
+  - 1x USB-C dust plug
