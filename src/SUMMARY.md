@@ -7,7 +7,7 @@
 - [Hardware](hardware.md)
   - [ZWO AM5N Mount](hardware/mount-zwo-am5n.md)
   - [Apertura 75Q Telescope](hardware/telescope-apertura-75q.md)
-  - [ZWO ASI533MM Pro Camera](hardware/camera-zwo-asi533mm-pro.md)
+  - [ZWO ASI183MM Pro Camera](hardware/camera-zwo-asi183mm-pro.md)
   - [ZWO 7x2" Electronic Filter Wheel](hardware/filter-wheel-zwo-7x2.md)
   - [Optolong Filters](hardware/filters-optolong.md)
   - [ZWO Electronic Automatic Focuser](hardware/focuser-zwo.md)

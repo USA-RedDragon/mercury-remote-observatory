@@ -60,7 +60,7 @@ graph LR;
         end
     end
     pegasus-powerbox-power<--12V/20A-->pegasus-wall-wart;
-    subgraph camera [ASI533MM Pro]
+    subgraph camera [ASI183MM Pro]
         camera-cooler-power(2.1×5.5mm)--12V/3A-->pegasus-powerbox-12v-1;
     end
     subgraph rotator [Pegasus Falcon Rotator]

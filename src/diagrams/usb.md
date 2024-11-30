@@ -2,7 +2,7 @@
 
 ```mermaid
 graph LR;
-    subgraph main-camera [ZWO ASI533MM Pro]
+    subgraph main-camera [ZWO ASI183MM Pro]
         main-camera-usb(USB-B 3.0 Device Interface);
         subgraph main-camera-hub [USB Passthrough Hub]
             main-camera-hub-usb-1(USB-A 2.0 Port 1);

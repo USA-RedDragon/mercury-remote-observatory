@@ -6,7 +6,7 @@ The observatory consists of:
 - [Apertura 75Q refractor telescope (75mm aperture, 405mm focal length, f/5.4)](hardware/telescope-apertura-75q.md)
   - [??? mounting plate](hardware/telescope-apertura-75q.md#mounting-plate)
 - [Apertura 75Q 0.75x focal reducer (to 303mm focal length, f/4)](hardware/telescope-apertura-75q.md#apertura-75q-075x-focal-reducer)
-- [ZWO ASI533MM Pro cooled monochrome camera (14-bit, 3008x3008 resolution, 3.76μm pixel size)](hardware/camera-zwo-asi533mm-pro.md)
+- [ZWO ASI183MM Pro cooled monochrome camera (12-bit, 3008x3008 resolution, 3.76μm pixel size)](hardware/camera-zwo-asi183mm-pro.md)
 - [ZWO 7x2" Electronic Filter Wheel](hardware/filter-wheel-zwo-7x2.md)
 - [7x Optolong 2 inch filters (LRGBSHO)](hardware/filters-optolong.md)
   - [Optolong Sulfur II / S-II Narrowband (6.5nm)](hardware/filters-optolong.md#sulfer-ii-s-ii-narrowband-65nm)
