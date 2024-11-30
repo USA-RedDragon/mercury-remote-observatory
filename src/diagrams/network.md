@@ -15,8 +15,12 @@ graph LR;
             power-strip-ethernet(ethernet)<--???mbps-->switch-2;
         end
         subgraph pc [Beelink EQ13 Mini PC]
-            beelink-ethernet(either ethernet port)<--1gbps-->switch-3;
+            subgraph pc-one-of [One of]
+                beelink-ethernet-1(port 1);
+                beelink-ethernet-2(port 2);
+            end
         end
+        pc-one-of<--1gbps-->switch-3
         subgraph kvm [Sipeed NanoKVM]
             nanokvm-ethernet(ethernet)<--100mbps-->switch-4;
         end

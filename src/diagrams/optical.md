@@ -2,8 +2,7 @@
 
 ```mermaid
 graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
+    filter-wheel--spacers?-->cam;
+    rotator--spacers?-->filter-wheel;
+    telescope--spacers?-->rotator;
 ```
