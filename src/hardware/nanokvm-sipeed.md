@@ -8,4 +8,3 @@
 
 - [Manufacturer Product Page](https://sipeed.com/nanokvm)
 - [Manual](https://wiki.sipeed.com/hardware/en/kvm/NanoKVM/introduction.html)
-
