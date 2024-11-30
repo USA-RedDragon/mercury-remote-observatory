@@ -2,40 +2,40 @@
 
 The observatory consists of:
 
-- ZWO AM5N equatorial mount
-- Apertura 75Q refractor telescope (75mm aperture, 405mm focal length, f/5.4)
-  - ??? mounting plate
-- Apertura 75Q 0.75x focal reducer (to 303mm focal length, f/4)
-- ZWO ASI533MM Pro cooled monochrome camera (14-bit, 3008x3008 resolution, 3.76μm pixel size)
-- ZWO 7x2" Electronic Filter Wheel
-- 7x Optolong 2 inch filters (LRGBSHO)
-  - Optolong Sulfur II / S-II Narrowband (6.5nm)
-  - Optolong Hydrogen Alpha Narrowband (7nm)
-  - Optolong Oxygen III / O-III Narrowband (6.5nm)
-  - Optolong LRGB Imaging Filter Set
-- ZWO Electronic Automatic Focuser - Standard (5V Version)
-  - ZWO temperature sensor
-- Pegasus Astro Ultimate Powerbox v3
-  - ?x 5.5mmx2.1mm dust plugs
-  - ?x USB dust plugs
-- Pegasus Astro Falcon Rotator (the discontinued "v1")
-- Beelink EQ13 mini PC (Intel N200, 16GB RAM, ??? storage)
-- Digital Loggers Pro Switch 10-port switchable AC hub
-  - Brass SMA dust cap
-- Deep Sky Dad FP2 flat panel (FLAP100 for the Apertura 75Q with heater add-on)
-- 3x Dew-Not Dew Heaters
-  - Dew-Not 6.5" DN02 (Guide scope)
-  - Dew-Not 9" DN03 (Narrow portion of OTA)
-  - Dew-Not 13" DN04 (Wide portion of OTA)
-- TP-Link Litewave 5-port Gigabit Ethernet Switch
-  - ?x RJ45 dust plugs
-- Orion Mini 50mm Guide Scope (50mm aperture, 162mm focal length, f/3.2)
-  - Dust cap
-- ZWO ASI120MM Mini monochrome guide scope camera (12-bit, 1280x960 resolution, 3.75μm pixel size)
-- Sipeed NanoKVM (Full version with case and external power support)
-  - ??? SD card
-- A miniature 2-port router
-  - Raspberry Pi CM4 (??gb EMMC)
-  - DFRobot Raspberry Pi Compute Module 4 IoT Router Carrier Board Mini (with acrylic case)
-  - Brass SMA dust cap
-  - 1x USB-C dust plug
+- [ZWO AM5N equatorial mount](hardware/mount-zwo-am5n.md)
+- [Apertura 75Q refractor telescope (75mm aperture, 405mm focal length, f/5.4)](hardware/telescope-apertura-75q.md)
+  - [??? mounting plate](hardware/telescope-apertura-75q.md#mounting-plate)
+- [Apertura 75Q 0.75x focal reducer (to 303mm focal length, f/4)](hardware/telescope-apertura-75q.md#apertura-75q-075x-focal-reducer)
+- [ZWO ASI533MM Pro cooled monochrome camera (14-bit, 3008x3008 resolution, 3.76μm pixel size)](hardware/camera-zwo-asi533mm-pro.md)
+- [ZWO 7x2" Electronic Filter Wheel](hardware/filter-wheel-zwo-7x2.md)
+- [7x Optolong 2 inch filters (LRGBSHO)](hardware/filters-optolong.md)
+  - [Optolong Sulfur II / S-II Narrowband (6.5nm)](hardware/filters-optolong.md#sulfer-ii-s-ii-narrowband-65nm)
+  - [Optolong Hydrogen Alpha Narrowband (7nm)](hardware/filters-optolong.md#hydrogen-alpha-narrowband-7nm)
+  - [Optolong Oxygen III / O-III Narrowband (6.5nm)](hardware/filters-optolong.md#oxygen-iii-o-iii-narrowband-65nm)
+  - [Optolong LRGB Imaging Filter Set](hardware/filters-optolong.md#lrgb-imaging-filter-set)
+- [ZWO Electronic Automatic Focuser - Standard (5V Version)](hardware/focuser-zwo.md)
+  - [ZWO temperature sensor](hardware/focuser-zwo.md#temperature-sensor)
+- [Pegasus Astro Ultimate Powerbox v3](hardware/powerbox-pegasus-astro-ultimate-v3.md)
+  - [?x 5.5mmx2.1mm dust plugs](hardware/dust-caps-and-plugs.md#55mmx21mm-dust-plugs)
+  - [?x USB A dust plugs](hardware/dust-caps-and-plugs.md#usb-a-dust-plugs)
+- [Pegasus Astro Falcon Rotator (the discontinued "v1")](hardware/rotator-pegasus-astro-falcon.md)
+- [Beelink EQ13 mini PC (Intel N200, 16GB RAM, ??? storage)](hardware/mini-pc-beelink-eq13.md)
+- [Digital Loggers Pro Switch 10-port switchable AC hub](hardware/switch-digital-loggers-pro.md)
+  - [Brass SMA dust cap](hardware/dust-caps-and-plugs.md#brass-sma-dust-caps)
+- [Deep Sky Dad FP2 flat panel (FLAP100 for the Apertura 75Q with heater add-on)](hardware/flat-panel-deep-sky-dad-fp2.md)
+- [3x Dew-Not Dew Heaters](hardware/heaters-dew-not.md)
+  - [Dew-Not 6.5" DN02 (Guide scope)](hardware/heaters-dew-not.md#dew-not-65-dn02)
+  - [Dew-Not 9" DN03 (Narrow portion of OTA)](hardware/heaters-dew-not.md#dew-not-9-dn03)
+  - [Dew-Not 13" DN04 (Wide portion of OTA)](hardware/heaters-dew-not.md#dew-not-13-dn04)
+- [TP-Link Litewave 5-port Gigabit Ethernet Switch](hardware/switch-tp-link-litewave.md)
+  - [?x RJ45 dust plugs](hardware/dust-caps-and-plugs.md#rj45-dust-plugs)
+- [Orion Mini 50mm Guide Scope (50mm aperture, 162mm focal length, f/3.2)](hardware/guide-scope-orion-mini-50mm.md)
+  - [Dust cap](hardware/guide-scope-orion-mini-50mm.md#dust-cap)
+- [ZWO ASI120MM Mini monochrome guide scope camera (12-bit, 1280x960 resolution, 3.75μm pixel size)](hardware/camera-zwo-asi120mm-mini.md)
+- [Sipeed NanoKVM (Full version with case and external power support)](hardware/nanokvm-sipeed.md)
+  - [??? SD card](hardware/nanokvm-sipeed.md#sd-card)
+- [A miniature 2-port router](hardware/router-miniature-2-port.md)
+  - [DFRobot Raspberry Pi Compute Module 4 IoT Router Carrier Board Mini (with acrylic case)](hardware/router-miniature-2-port.md#dfrobot-raspberry-pi-compute-module-4-iot-router-carrier-board-mini)
+  - [Raspberry Pi CM4 (??gb EMMC)](hardware/router-miniature-2-port.md#raspberry-pi-cm4)
+  - [Brass SMA dust cap](hardware/dust-caps-and-plugs.md#brass-sma-dust-caps)
+  - [1x USB-C dust plug](hardware/dust-caps-and-plugs.md#usb-c-dust-plug)
