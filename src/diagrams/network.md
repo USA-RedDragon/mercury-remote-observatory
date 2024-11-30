@@ -3,7 +3,7 @@
 ```mermaid
 graph LR;
     wan(On-site connection)<--1gbps-->router-eth0;
-    subgraph local-network [Local Network 192.168.44.0/24]
+    subgraph local-network [Local Network]
         subgraph switch [TPLink 5-port switch]
             switch-1(1);
             switch-2(2);
