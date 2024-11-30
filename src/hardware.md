@@ -16,6 +16,8 @@ The observatory consists of:
 - ZWO Electronic Automatic Focuser - Standard (5V Version)
   - ZWO temperature sensor
 - Pegasus Astro Ultimate Powerbox v3
+  - ?x 5.5mmx2.1mm dust plugs
+  - ?x USB dust plugs
 - Pegasus Astro Falcon Rotator (the discontinued "v1")
 - Beelink EQ13 mini PC (Intel N200, 16GB RAM, ??? storage)
 - Digital Loggers Pro Switch 10-port switchable AC hub
