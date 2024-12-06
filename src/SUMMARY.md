@@ -21,12 +21,10 @@
   - [Orion Mini 50mm Guide Scope](hardware/guide-scope-orion-mini-50mm.md)
   - [ZWO ASI120MM Mini Guide Scope Camera](hardware/camera-zwo-asi120mm-mini.md)
   - [Sipeed NanoKVM](hardware/nanokvm-sipeed.md)
-  - [Miniature 2-port Router](hardware/router-miniature-2-port.md)
   - [Dust Caps and Plugs](hardware/dust-caps-and-plugs.md)
 - [Diagrams](diagrams.md)
   - [Power](diagrams/power.md)
   - [USB](diagrams/usb.md)
-  - [Network](diagrams/network.md)
   - [Optical Train](diagrams/optical.md)
 
 # Installation

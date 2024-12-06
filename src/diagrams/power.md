@@ -20,11 +20,6 @@ graph LR;
         end
         power-strip-vin(Input);
     end
-    router-wall-wart(USB-C 3A wall-wart)<--120V/?A (Watchdog)-->power-strip-port-1;
-    subgraph router [2-port miniature router]
-        router-power(Power USB-C);
-    end
-    router-power<--5V/3A-->router-wall-wart;
     subgraph pc [Beelink EQ13 Mini PC]
         beelink-power(Input)<--120V/?A-->power-strip-port-2;
     end
