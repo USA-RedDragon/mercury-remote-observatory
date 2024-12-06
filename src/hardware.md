@@ -35,8 +35,3 @@ The observatory consists of:
 - [ZWO ASI120MM Mini monochrome guide scope camera (12-bit, 1280x960 resolution, 3.75μm pixel size)](hardware/camera-zwo-asi120mm-mini.md)
 - [Sipeed NanoKVM (Full version with case and external power support)](hardware/nanokvm-sipeed.md)
   - [??? SD card](hardware/nanokvm-sipeed.md#sd-card)
-- [A miniature 2-port router](hardware/router-miniature-2-port.md)
-  - [DFRobot Raspberry Pi Compute Module 4 IoT Router Carrier Board Mini (with acrylic case)](hardware/router-miniature-2-port.md#dfrobot-raspberry-pi-compute-module-4-iot-router-carrier-board-mini)
-  - [Raspberry Pi CM4 (??gb EMMC)](hardware/router-miniature-2-port.md#raspberry-pi-cm4)
-  - [Brass SMA dust cap](hardware/dust-caps-and-plugs.md#brass-sma-dust-caps)
-  - [1x USB-C dust plug](hardware/dust-caps-and-plugs.md#usb-c-dust-plug)
