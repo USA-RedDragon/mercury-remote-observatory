@@ -20,7 +20,7 @@ jobs:
       MDBOOK_VERSION: 0.4.43
       MDBOOK_MERMAID_VERSION: 0.14.0
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
       - name: Install Rust
         run: |
           curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf -y | sh
