@@ -15,7 +15,7 @@ concurrency:
 
 jobs:
   build:
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-26.04
     env:
       MDBOOK_VERSION: 0.4.43
       MDBOOK_MERMAID_VERSION: 0.14.0
@@ -43,7 +43,7 @@ jobs:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-24.04
+    runs-on: ubuntu-26.04
     if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/main' }}
     needs: build
     steps:
